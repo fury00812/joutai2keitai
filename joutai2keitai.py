@@ -81,7 +81,7 @@ class Transfer:
             elif "カ変・クル" in conjugations:
                 word = "き"
             else:
-                raise Exception("{} is not expected".format(surface))
+                word = surface
 
             # rule 1: 動詞基本形 -> 動詞連用形+"ます"
             if conjugated=="基本形":
