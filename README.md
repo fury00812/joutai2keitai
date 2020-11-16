@@ -1,6 +1,9 @@
 # joutai2keitai
 Converts Japanese sentences from written language style (常体) to spoken language style (敬体).
 
+## reference
+- 林由紀子, 松原茂樹: 自然な読み上げ音声出力のための書き言葉から話し言葉へのテキスト変換, 情報処理学会研究報告音声言語情報処理, Vol.47, pp. 49-54
+
 ## requirements
 - Python 3
 - mecab-python3
